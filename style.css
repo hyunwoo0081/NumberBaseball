@@ -1,0 +1,51 @@
+.playground {
+	width : 260px;
+	margin : 2px auto;
+	text-align: center;
+}
+
+.input_box {
+	display : flex;
+	justify-content : center;
+}
+
+#number_input {
+	width: 150px;
+	text-align: center;
+}
+
+table {
+	margin : 0 auto;
+	border-spacing: 0px;
+	border-radius: 2px;
+	border: 2px solid #333;
+}
+
+td, th{
+	border: 1px solid darkgray;
+	height: 25px;
+}
+
+.table_number {
+	width: 150px;
+}
+
+.table_tag {
+	width: 25px;
+}
+
+.strike, .ball {
+	color: white;
+}
+
+.strike {
+	background-color: orange;
+}
+
+.ball {
+	background-color: green;
+}
+
+.out {
+	background-color: red;
+}
